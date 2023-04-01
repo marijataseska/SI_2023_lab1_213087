@@ -1,0 +1,37 @@
+commit 17c22422838f3f55303d36d590b78a4d07524802 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: marijataseska <108740625+marijataseska@users.noreply.github.com>
+Date:   Sat Apr 1 12:28:25 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 931b231396f1e5eca3f70c4e46a8de550cbd57f0
+Merge: c6655af 09ff515
+Author: marijataseska <108740625+marijataseska@users.noreply.github.com>
+Date:   Sat Apr 1 12:33:03 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 09ff515ff50bb77aca827b1644f1b47814174aab (origin/bug2, bug2)
+Author: marijataseska <108740625+marijataseska@users.noreply.github.com>
+Date:   Sat Apr 1 12:26:00 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit c6655af222e96a03d23bd0a31084bd4e2797df9d (origin/bug1, bug1)
+Author: marijataseska <108740625+marijataseska@users.noreply.github.com>
+Date:   Sat Apr 1 12:21:57 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 64c85a97d5bb19b9d2b9684ac9e2d6c8d426419a
+Author: marijataseska <108740625+marijataseska@users.noreply.github.com>
+Date:   Sat Apr 1 12:06:46 2023 +0200
+
+    Add java class
+
+commit d54ba7b35d0fc21adf4ac3e917c52cf85f3067ae
+Author: marijataseska <108740625+marijataseska@users.noreply.github.com>
+Date:   Sat Apr 1 11:59:19 2023 +0200
+
+    Initial commit
+(END)
